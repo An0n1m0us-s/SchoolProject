@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+    font-family: Arial;
+    display: inline;
+    font-size: 160%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
