@@ -11,3 +11,7 @@ div.split2 div{
 div.clearer{
     float: none; clear: left
     }
+
+li{
+    font-family: Arial;
+}
