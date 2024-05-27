@@ -1,5 +1,3 @@
-
-
 div.split2 div{
     float: left;
     width: 50%;
@@ -14,4 +12,9 @@ div.clearer{
 
 li{
     font-family: Arial;
+    }
+
+.images {
+    width: 350px;
+    height: 350px;
 }
