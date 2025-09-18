@@ -3,7 +3,7 @@
 
 
 Lavoro di: <br>
->    - Rambostaia Brian <br>
+>    - Rambostaia Brian <br> (ho fatto tutto da solo porcaccioddio) (forse anche la madonna)
 >    - Rinaldi Tommaso <br>
 >    - Beddini Tommaso <br>
 >    - Caponera Matteo
